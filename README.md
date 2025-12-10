@@ -9,7 +9,7 @@ A modern and minimal quiz application built with **React**, focused on clean UI,
 
 ## 🌐 Live Demo
 
-🔗 Live Project: https://www.loom.com/share/5401992a3b6649f48b19580aad583605
+🔗 Live Project: https://www.loom.com/share/5401992a3b6649f48b19580aad583605/
 
 
 ---
@@ -32,8 +32,8 @@ The project emphasizes **UI/UX polish** using animations and a glassmorphism-ins
 )
 
 ### Result Screen
-![Result]([./screenshots/result.png](https://image2url.com/images/1765374049219-feea80a9-6cd8-4a10-ba90-83b61d7435d8.png
-))
+![Result](https://image2url.com/images/1765374049219-feea80a9-6cd8-4a10-ba90-83b61d7435d8.png
+)
 
 ---
 
